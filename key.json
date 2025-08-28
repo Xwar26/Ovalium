@@ -1,6 +1,6 @@
 {
   "key": "LolipopPermen",
-  "maintenance": true,
-  "killswitch": true,
+  "maintenance": false,
+  "killswitch": false,
   "message": "Server sedang maintenance, key disebar sama @ditthtzy"
 }
