@@ -1,6 +1,6 @@
 {
   "key": "LolipopPermen",
-  "maintenance": false,
-  "killswitch": false,
-  "message": "Server sedang maintenance, coba lagi nanti!"
+  "maintenance": true,
+  "killswitch": true,
+  "message": "Server sedang maintenance, key disebar sama @BuronanKelasKakap"
 }
