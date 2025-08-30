@@ -1,6 +1,6 @@
 {
   "key": "DprTikus",
-  "maintenance": false,
-  "killswitch": false,
-  "message":  "Script Telah Disebar Oleh Reseller Silahkan menunggu Info Selanjutnya"
+  "maintenance": true,
+  "killswitch": true,
+  "message":  "Script Telah Disebar Oleh Permission Izi Available"
 }
