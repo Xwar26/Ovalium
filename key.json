@@ -1,6 +1,6 @@
 {
   "key": "DprTikus",
-  "maintenance": true,
-  "killswitch": true,
+  "maintenance": false,
+  "killswitch": false,
   "message":  "Script Telah Disebar Oleh Permission Izi Available"
 }
