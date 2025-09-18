@@ -1,7 +1,7 @@
 {
   "key": "OVALIUMCORE",
   "expire_date": "2025-12-31T23:59:59Z",
-  "maintenance": true,
+  "maintenance": false,
   "killswitch": false,
   "message": "OK"
 } 
